@@ -75,3 +75,9 @@ Configuration options may change in the future releases in backward incompatible
 ### License
 
 MIT
+
+## Author Information
+
+Steamulo - www.steamulo.com
+
+Forked from [gtrafimenkov](https://github.com/gtrafimenkov)
